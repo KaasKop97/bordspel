@@ -1,4 +1,4 @@
-Oh nee! Je gangster is in de verkeerde taxi gestapt. Verplaats je gangster in een rechte lijn naar de andere kant van het bord.
+Oh nee! Je gangster is in de verkeerde taxi gestapt. Verplaats je gangster in een rechte lijn naar de andere kant van het bord. Neem de langste weg.
 
 Je hebt de commissaris omgekocht. Plaats een roadblock op het bord.
 
@@ -13,3 +13,4 @@ De politie houd je extra in de gaten. Volgende beurt mogen geen huizen veroverd 
 Je gangster heeft de griep. Beweeg de volgende beurt niet of betaal 20 soldi aan het ziekenhuis.
 
 Je bankoverval was succesvol. +250 soldi
+
