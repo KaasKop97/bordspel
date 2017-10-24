@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="TUSSENSCHOTTEN SNIJDWERK.svg">
+   sodipodi:docname="30X60 TUSSENSCHOTTEN SNIJDWERK.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="472.39848"
+     inkscape:cx="1440.8597"
      inkscape:cy="420.27713"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -54,25 +54,33 @@
      id="layer1"
      transform="translate(0,3)">
     <rect
-       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.00999925;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.00999925;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
        id="rect841"
        width="399.98999"
        height="79.989998"
        x="11.147928"
        y="12.186112" />
     <rect
-       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.00865966;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.01;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect841-3"
        width="299.99133"
        height="79.991341"
-       x="60.612705"
-       y="103.59164" />
+       x="12.231752"
+       y="107.3714" />
     <rect
-       style="opacity:1;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.00865966;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.01;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect841-3-5"
        width="299.99133"
        height="79.991341"
-       x="61.147259"
-       y="200.87773" />
+       x="12.010354"
+       y="203.90154" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.01;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect841-3-5-7"
+       width="119.32245"
+       height="79.991341"
+       x="-476.40085"
+       y="-215.02863"
+       transform="scale(-1)" />
   </g>
 </svg>
